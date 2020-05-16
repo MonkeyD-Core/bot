@@ -1,0 +1,15 @@
+{
+    "auth": "gAAAAABelc5oAxxQOskYq8kCLRgux2MgQdpsG1u68YWLkiO9Ts6Av-Sko1MHKWBZA8s100kYFD7XBjKSFnnAoDOFNJVvlqOHbA==",
+    "device": {
+        "9fc62374-b0cb-4229-8926-b62891e0b5ff": {
+            "sdk": "24",
+            "manufacturer": "Samsung",
+            "device": "GT-P6210",
+            "model": "GT-P6210",
+            "product": "GT-P6210",
+            "hardware": "",
+            "board": "amqyscjt",
+            "brand": "Samsung"
+        }
+    }
+}
